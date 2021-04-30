@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Omni.ImageConverter": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
